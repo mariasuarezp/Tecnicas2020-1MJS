@@ -1,0 +1,66 @@
+Documentacion
+Funcionalidades del programa
+
+-> Operacion 1: reservarMemoriaCentroComercial
+   Entrada: Recibe la matriz de locales, la cantidad de filas y columnas 
+            para alocar la memoria dinamicamente.
+   Salida: Retorna la matriz alocada con memoria dinamica.
+   Conceptos: Aqui se utiliza paso de parametros por referencia.
+
+-> Operacion 2: iniciarCentroComercial
+   Entrada: Recibe la matriz de locales para inicializar todos los locales 
+            con el mismo estado y tambien recibe el numero de filas y columnas
+            establecidas para recorrer la matriz.
+   Salida: No retorna nada, solo cambia el estado de los locales en la matriz.
+   Conceptos: Se utiliza paso de parametros por referencia
+
+-> Operacion 3: menu
+   Entrada: No recibe nada, solo imprime las opciones del menú y guarda la opcion
+            que escogio el usuario.
+   Salida: retorna la opcion que escogio el usuario.
+   Conceptos: Solo se uso printf y scanf.
+
+-> Operacion 4: agregarLocal
+   Entrada: Recibe la matriz en donde se van a agregar locales (se agrega informacion
+            y se ocupan los locales de la matrices).
+   Salida: No retorna nada.
+   Conceptos: Se aplica recursion para asegurarse que el usuario ingrese la informacion
+              valida de la ubicacion. Tambien se utiliza el paso de parametros por
+              referencia. 
+
+-> Opercion 5: desocuparLocal
+   Entrada: Recibe la la matriz de los locales para "Eliminar" los que se encuentran
+            ocupados (cambiar el estado a disponible).
+   Salida: No retorna nada.
+   Conceptos: Se utiliza paso de parametros por referencia.
+
+-> Operacion 6: buscarLocal
+   Entrada: Recibe la matriz de locales, las filas y columnas establecidas. La funcion
+            imprime la informacion de un local buscandolo por su nombre.
+   Salida: No retorna nada.
+   Conceptos: Se utilizan paso de parametros por referencia y loops for.
+
+-> Operacion 7: buscarLocalDisponible
+   Entrada: Recibe la matriz de locales, las filas y colas para recorrer todos los 
+            locales que existan en el centro Comercial. También recibe un contador
+            que representa la cantidad de locales ocupados, esto se usa para calcular
+            cuantos locales quedan disponibles. 
+   Salida: No retorna nada.
+   Conceptos: Se utiliza paso de parametros por referencia y loops.
+
+-> Operacion 8: cambiarNormbeLocal
+   Entrada: Recibe la matriz de locales, la cantidad de filas y columnas para recorrer
+            todos los locales buscando el nombre y luego modificarlo.
+   Salida: No retorna nada.
+   Conceptos: Se utiliza paso de parametros por referencia y loops. 
+
+-> Operacion 9: buscarTema
+   Entrada: Recibe la matriz de locales, filas y columnas para recorrer todos los locales y
+            buscar aquellos que comparten un mismo tipo de tematica para imprimirlos.
+   Salida: No retorna nada.
+   Conceptos:Se aplican enums para listar los tipos de tematicas y paso de parametros por
+              referencia. 
+            
+
+             
+   
