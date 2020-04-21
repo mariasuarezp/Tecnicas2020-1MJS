@@ -16,6 +16,7 @@ void nuevaPersona(persona calendario[12][5], int cantPersona[12]){
    scanf("%d", &alguien.fecha[2]);
 
 //De parte de Daniel
+   // Ok me gusta la idea de usar los enums así
    if(alguien.fecha[1] == NOVIEMBRE)
       printf("Sugoi?\n");
    if(alguien.fecha[1] == DICIEMBRE)
@@ -81,6 +82,9 @@ void mostrarCumpleanios(persona calendario[12][5], int cantPersona[12]){
    return; 
 }
 
+
+// Aqui no usaste bn la recursión. Hablate con Daniel que la función de él 
+// si usa bn el concepto. 
 void nombreCumpleanios(persona calendario[12][5], int cantPersona[12]){
    int i, j;
    char nombres[15];
