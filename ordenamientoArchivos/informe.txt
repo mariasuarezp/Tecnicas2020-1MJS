@@ -1,0 +1,6 @@
+Informe de la actividad
+
+Para esta actividad, todos los algoritmos funcionan perfectamente y gracias a la librería time.h podemos analizar el tiempo que se demoran en ejecutar los programas. Esto permitio estudiar mejor la eficiencia de cada uno de los procedimientos. Respecto a los datos, aunque el conjunto de elementos se trataba de un arreglo con numeros aleatorios, al final estos no diferian mucho entre ellos para cada caso y solo se utilizaban numeros del 1 al 100, por lo que no tuvo un efecto muy significativo en el resultado final.
+
+Durante la realización del trabajo hubo un inconveniente con la entrada de datos al programa cuando se realizaba desde un archivo binario, ya que este no lo leia. Por esta razón, se sacaban estos datos dentro del mismo codigo, pero de forma aleatoria. Lo demás funciono muy bien y permitio dar una mejor visión de como trabajaba cada algoritmo. 
+

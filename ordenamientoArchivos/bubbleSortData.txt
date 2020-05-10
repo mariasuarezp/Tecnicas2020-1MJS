@@ -1,0 +1,42 @@
+-> BUBBLESORT
+Cantidad de elementos: 10
+Tiempo Local (Fecha y hora): Sat May 09 20:43:03 2020
+
+Tiempo de ejecucion: 0.002000 seg
+
+-> BUBBLESORT
+Cantidad de elementos: 100
+Tiempo Local (Fecha y hora): Sat May 09 20:45:09 2020
+
+Tiempo de ejecucion: 0.005000 seg
+
+-> BUBBLESORT
+Cantidad de elementos: 1000
+Tiempo Local (Fecha y hora): Sat May 09 20:45:21 2020
+
+Tiempo de ejecucion: 0.056000 seg
+
+-> BUBBLESORT
+Cantidad de elementos: 5000
+Tiempo Local (Fecha y hora): Sat May 09 20:45:30 2020
+
+Tiempo de ejecucion: 0.288000 seg
+
+-> BUBBLESORT
+Cantidad de elementos: 10000
+Tiempo Local (Fecha y hora): Sat May 09 20:45:46 2020
+
+Tiempo de ejecucion: 0.730000 seg
+
+-> BUBBLESORT
+Cantidad de elementos: 50000
+Tiempo Local (Fecha y hora): Sat May 09 20:46:04 2020
+
+Tiempo de ejecucion: 9.264000 seg
+
+-> BUBBLESORT
+Cantidad de elementos: 100000
+Tiempo Local (Fecha y hora): Sat May 09 20:46:29 2020
+
+Tiempo de ejecucion: 33.153000 seg
+

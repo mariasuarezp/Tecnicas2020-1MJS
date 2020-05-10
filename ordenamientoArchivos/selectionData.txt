@@ -1,0 +1,42 @@
+-> SELECTION SORT
+Cantidad de elementos: 10
+Tiempo Local (Fecha y hora): Sat May 09 20:25:40 2020
+
+Tiempo de ejecucion: 0.002000 seg
+
+-> SELECTION SORT
+Cantidad de elementos: 100
+Tiempo Local (Fecha y hora): Sat May 09 20:25:50 2020
+
+Tiempo de ejecucion: 0.007000 seg
+
+-> SELECTION SORT
+Cantidad de elementos: 1000
+Tiempo Local (Fecha y hora): Sat May 09 20:26:35 2020
+
+Tiempo de ejecucion: 0.060000 seg
+
+-> SELECTION SORT
+Cantidad de elementos: 5000
+Tiempo Local (Fecha y hora): Sat May 09 20:26:45 2020
+
+Tiempo de ejecucion: 0.261000 seg
+
+-> SELECTION SORT
+Cantidad de elementos: 10000
+Tiempo Local (Fecha y hora): Sat May 09 20:26:57 2020
+
+Tiempo de ejecucion: 0.558000 seg
+
+-> SELECTION SORT
+Cantidad de elementos: 50000
+Tiempo Local (Fecha y hora): Sat May 09 20:27:11 2020
+
+Tiempo de ejecucion: 5.054000 seg
+
+-> SELECTION SORT
+Cantidad de elementos: 100000
+Tiempo Local (Fecha y hora): Sat May 09 20:27:34 2020
+
+Tiempo de ejecucion: 16.572000 seg
+
